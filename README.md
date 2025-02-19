@@ -69,6 +69,11 @@
       <img align="left" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Stack_Overflow-512.png" alt="Carlewis Akana | Stack Overflow" width="35px" style="max-width: 100%;">
     </a>
   </p>
+    <p dir="auto">
+    <a href="http://cyclone.42web.io/?i=1" rel="nofollow">
+      <img align="left" src="https://img.freepik.com/free-vector/gradient-world-wide-web-internet_78370-4896.jpg?semt=ais_hybrid" alt="Carlewis Akana | Stack Overflow" width="35px" style="max-width: 100%;">
+    </a>
+  </p>
   <br>
   <br>
   <div class="markdown-heading" dir="auto">
@@ -200,7 +205,7 @@
   </div>
   <p dir="auto">
     <a href="https://github.com/acarlewis">
-      <img src="https://camo.githubusercontent.com/19a7e418cafa1d77fb8694465092b73232e18979d9ef55fc0bf939b34d2ba6d5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d64656570616a61726f7574" alt="Deepa's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=deepajarout" style="max-width: 100%;">
+      <img src="" alt="carlewis's github stats" data-canonical-src="" style="max-width: 100%;">
     </a>
   </p>
   <p dir="auto">
