@@ -50,7 +50,7 @@
     </a>
   </p>
   <p dir="auto">
-    <a href="https://twitter.com/deepajarout" rel="nofollow">
+    <a href="https://twitter.com/CarlewisAkana" rel="nofollow">
       <img align="left" src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter logo_icon.png" alt="Carlewis Akana | Twitter" width="35px" style="max-width: 100%;">
     </a>
   </p>
