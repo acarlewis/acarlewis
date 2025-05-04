@@ -11,7 +11,7 @@
   <ul dir="auto">
     <li>💹 Programmer.</li>
     <li>🔭 I’m currently working on Flutter</li>
-    <li>🌱 I’m currently learning Docker</li>
+    <li>🌱 I’m currently learning automation testing</li>
     <li>👯 I’m looking to collaborate on new business ideas.</li>
     <li>♨️Pain is inevitable but suffering is optional.</li>
     <li>✴️Hustle against odd.</li>
