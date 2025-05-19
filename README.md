@@ -77,9 +77,9 @@
   <br>
   <themed-picture data-catalyst-inline="true" data-catalyst="">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg">
-      <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" style="visibility:visible;max-width:100%;">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/acarlewis/acarlewis/output/github-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/acarlewis/acarlewis/output/github-snake.svg">
+      <img alt="github-snake" src="https://raw.githubusercontent.com/acarlewis/acarlewis/output/github-snake.svg" style="visibility:visible;max-width:100%;">
     </picture>
   </themed-picture>
   <br>
