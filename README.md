@@ -213,10 +213,17 @@
       <img src="https://camo.githubusercontent.com/5ff99ae6bdaf0d67669b7a7068320e45a3e8d5340f04bc54afd919cebbd23dd8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d64656570616a61726f7574266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepajarout&amp;layout=compact" style="max-width: 100%;">
     </a>
   </p>
+  <themed-picture data-catalyst-inline="true" data-catalyst="">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg">
+      <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" style="visibility:visible;max-width:100%;">
+    </picture>
+  </themed-picture>
   <p dir="auto">[
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/abb89ffaba07d10f93c6750667123a645edcfa16c6686b2097b7301f660ed187/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d64656570616a61726f75742e64656570616a61726f7574">
+<!--     <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/abb89ffaba07d10f93c6750667123a645edcfa16c6686b2097b7301f660ed187/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d64656570616a61726f75742e64656570616a61726f7574">
       <img src="https://camo.githubusercontent.com/abb89ffaba07d10f93c6750667123a645edcfa16c6686b2097b7301f660ed187/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d64656570616a61726f75742e64656570616a61726f7574" alt="Visitors" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=deepajarout.deepajarout" style="max-width: 100%;">
-    </a>]
+    </a>] -->
     view rawREADME.txt hosted with ❤ by GitHub
   </p>
 </article>
