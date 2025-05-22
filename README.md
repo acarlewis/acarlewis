@@ -8,14 +8,25 @@
     </a>
   </div>
   <p dir="auto">I am <strong>Carleiws Akana(Full stack Developer)</strong>. I ✨ like ✨  problem solving, traveling, photography, dancing, video games, conversations. I ✨ like ✨  to explore new places with different traditions and cultures.</p>
-  <ul dir="auto">
-    <li>💹 Programmer.</li>
-    <li>🔭 I’m currently working on Flutter</li>
-    <li>🌱 I’m currently learning automation testing</li>
-    <li>👯 I’m looking to collaborate on new business ideas.</li>
-    <li>♨️Pain is inevitable but suffering is optional.</li>
-    <li>✴️Hustle against odd.</li>
-  </ul>
+  <table border="0">
+ <tr>
+    <td>  
+      <ul dir="auto">
+        <li>💹 Programmer.</li>
+        <li>🔭 I’m currently working on Flutter</li>
+        <li>🌱 I’m currently learning automation testing</li>
+        <li>👯 I’m looking to collaborate on new business ideas.</li>
+        <li>♨️Pain is inevitable but suffering is optional.</li>
+        <li>✴️Hustle against odd.</li>
+      </ul>
+    </td>
+    <td>
+      <div align="center">
+        <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+      </div>  
+    </td>
+ </tr>
+</table>
 
   <ul dir="auto">
     <li>💬 Ask me about life advice🤣🤣 , tech solution 👩‍💻 , traveling <g-emoji class="g-emoji" alias="airplane">✈️</g-emoji>, food 🌯 🫔 🥗 🥘 🫕 🥫 🍝 🍜 🍲 🍛.</li>
