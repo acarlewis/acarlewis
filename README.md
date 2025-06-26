@@ -77,7 +77,7 @@
   </p>
   <p dir="auto">
     <a href="https://stackoverflow.com/users/12204480/carlewis" rel="nofollow">
-      <img align="left" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Stack_Overflow-512.png" alt="Carlewis Akana | Stack Overflow" width="35px" style="max-width: 100%;">
+      <img align="left" src="https://cdn-icons-png.flaticon.com/512/2626/2626299.png" alt="Carlewis Akana | Stack Overflow" width="35px" style="max-width: 100%;">
     </a>
   </p>
     <p dir="auto">
