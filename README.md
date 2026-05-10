@@ -199,8 +199,8 @@
   </div>
   <ul dir="auto">
     <li><a href="https://medium.com/@carlewis/how-to-add-a-free-ssl-certificate-to-your-website-736a41837a1" rel="nofollow">How to add a free SSL Certificate to your website?</a></li>
-    <li><a href="https://medium.com/@carlewis/data-types-in-javascript-fd7cd14ad4a7" rel="nofollow">Data Types In Javascript</a></li>
-    <li><a href="https://medium.com/@carlewis/variables-in-javascript-ef840522e80d" rel="nofollow">Variables In Javascript</a></li>
+    <li><a href="https://cyclone.42web.io/blog-single/13" rel="nofollow">Best Practices for Designing and Implementing Effective Test Automation Strategies</a></li>
+    <li><a href="https://github.com/acarlewis/GitHub-And-It-s-Commands" rel="nofollow">GitHub and it's commands</a></li>
   </ul>
   <div class="markdown-heading" dir="auto">
     <h2 class="heading-element" dir="auto">📈 GitHub Stats</h2>
