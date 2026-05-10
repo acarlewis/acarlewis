@@ -242,6 +242,11 @@ I also develop <strong>mobile applications</strong> using <b>React Native</b>, w
       <img src="https://camo.githubusercontent.com/5ff99ae6bdaf0d67669b7a7068320e45a3e8d5340f04bc54afd919cebbd23dd8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d64656570616a61726f7574266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepajarout&amp;layout=compact" style="max-width: 100%;">
     </a>
   </p>
+  <p align="center">
+    <a href="https://youtu.be/h8mwyHBxFEE">
+      <img src="https://i9.ytimg.com/vi_webp/h8mwyHBxFEE/mq3.webp?sqp=CNjbgtAG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgOSh_MA8=&rs=AOn4CLDwbfsQJOwcCOoeIap4wTfdMZmksg" alt="Watch the video">
+    </a>
+  </p>
   <p dir="auto">[
 <!--     <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/abb89ffaba07d10f93c6750667123a645edcfa16c6686b2097b7301f660ed187/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d64656570616a61726f75742e64656570616a61726f7574">
       <img src="https://camo.githubusercontent.com/abb89ffaba07d10f93c6750667123a645edcfa16c6686b2097b7301f660ed187/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d64656570616a61726f75742e64656570616a61726f7574" alt="Visitors" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=deepajarout.deepajarout" style="max-width: 100%;">
