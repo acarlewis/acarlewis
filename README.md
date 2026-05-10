@@ -7,7 +7,18 @@
       </svg>
     </a>
   </div>
-  <p dir="auto">I am <strong>Carleiws Akana(Full stack Developer)</strong>. I ✨ like ✨  problem solving, traveling, photography, dancing, video games, conversations. I ✨ like ✨  to explore new places with different traditions and cultures.</p>
+  <p dir="auto">Are you looking for a Full-Stack development and QA Engineer skilled in automation?
+
+Do you want to ensure the highest quality ✨ for your software products?
+
+I’m a <strong>Full-Stack Developer (Web & Mobile)</strong> with experience building end-to-end applications and a strong background in <strong>QA Automation</strong>.
+
+I design and develop scalable web applications using <strong>Laravel</strong>, <strong>React</strong>, and <strong>Vue</strong>, covering everything from backend APIs to responsive user interfaces. I’ve worked on real-world projects including an AI-powered restaurant ordering system, a B2B marketplace, and custom web platforms, focusing on performance, usability, and clean architecture.
+
+Alongside development, I bring a solid testing mindset. I implement <strong>automated testing</strong> using <strong>Cypress</strong>, <strong>Playwright</strong>, <strong>Selenium</strong>, and <strong>Cucumber</strong>, ensuring applications are reliable, maintainable, and production-ready.
+
+I also develop <strong>mobile applications</strong> using <b>React Native</b>, with several ongoing projects and working demos focused on real-world use cases and API integration.
+  </p>
   <table border="0">
  <tr>
     <td>  

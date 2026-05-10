@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"d:/3D Objects/Programming/GitHub/acarlewis\" status)",
+      "Bash(git -C \"d:/3D Objects/Programming/GitHub/acarlewis\" commit --no-edit)",
+      "Bash(git -C \"d:/3D Objects/Programming/GitHub/acarlewis\" log --oneline -3)",
+      "Bash(git -C \"d:/3D Objects/Programming/GitHub/acarlewis\" commit --amend -m \"Merge branch 'main' of https://github.com/acarlewis/acarlewis\")"
+    ]
+  }
+}
