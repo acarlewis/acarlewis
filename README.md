@@ -244,7 +244,7 @@ I also develop <strong>mobile applications</strong> using <b>React Native</b>, w
   </p>
   <p align="center">
     <a href="https://youtu.be/h8mwyHBxFEE">
-      <img src="./logo-stone.jpg" alt="Watch the video">
+      <img src="./logo-move.gif" alt="Watch the video">
     </a>
   </p>
   <p dir="auto">[
