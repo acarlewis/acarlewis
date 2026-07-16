@@ -1,7 +1,6 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
   <div class="markdown-heading" dir="auto">
     <h3 class="heading-element" dir="auto">Hi, I'm Carlewis 👋</h3>
-   
   </div>
 
   ```
